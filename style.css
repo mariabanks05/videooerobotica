@@ -1,7 +1,7 @@
 body {
-color: white; */Define a cor do texto do corpo da página para branco*/
-  background:black; */Define a cor de fundo da página para preto*/
-  margin: 0px; */Remove qualquer margem ao redor do corpo, fazendo a página ocupar toda a tela*/
-  font-family: "Chakra Petch", sans-serif; */Define a fonte do texto para "Chakra Petch" ou uma fonte sans-serif padrão se essa não estiver disponível*/
-  margin-bottom: 100px; */
+color: white; /*Define a cor do texto do corpo da página para branco*/
+  background: black; /*Define a cor de fundo da página para preto*/
+  margin: 0px; /*Remove qualquer margem ao redor do corpo, fazendo a página ocupar toda a tela*/
+  font-family: "Chakra Petch", sans-serif; /*Define a fonte do texto para "Chakra Petch" ou uma fonte sans-serif padrão se essa não estiver disponível*/
+  margin-botton: 100px; /*Essa propriedade adicionaria uma margem de 100px na parte inferior do corpo, criando espaço extra na parte de baixo da página*/
 }
